@@ -22,9 +22,8 @@ At the moment, the volunteer movement in Kazakhstan is developing in such direct
 
 There are also 109 volunteer organizations in Kazakhstan. The most famous volunteer organizations in Kazakhstan are the League of Volunteers, Best for kids, "28 loops", "Club of kind people". Similar and other organizations work on a gratuitous basis, they provide assistance to people absolutely free of charge. Situations in life are different and they can help a person who finds himself in a temporary predicament in order to support him and so that he can get out of difficulties and start a new life.
 
-```
-Technology stack:
-```
+## Technology stack:
+
 Programming languages: Java Script
 
 Libraries: mongoose, express, body-parser, https, express-session, passport, passport-local-mongoose
