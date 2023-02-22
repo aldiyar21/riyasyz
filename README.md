@@ -1,3 +1,13 @@
+<div align="center">
+
+![Riyasyz Logo](https://cdn.discordapp.com/attachments/935156459208073281/1077905971017416704/logohs.png)
+
+# Sapphire Website
+
+**Source code for Riyasyz.kz service.**
+
+</div>
+
 ## Write this before launching the site: 
 
 
