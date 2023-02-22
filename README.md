@@ -1,4 +1,4 @@
-write this before launching the site: npm i mongoose express body-parser https express-session passport passport-local-mongoose
+Write this before launching the site: npm i mongoose express body-parser https express-session passport passport-local-mongoose
 
 Our group decided to choose the volunteering service as our project, because we believe that this topic is very relevant in our time and useful for society. We ourselves are interested in this topic and have repeatedly participated in volunteer movements within the framework of various programs and events.
 
