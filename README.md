@@ -26,9 +26,13 @@ There are also 109 volunteer organizations in Kazakhstan. The most famous volunt
 Technology stack:
 ```
 Programming languages: Java Script
+
 Libraries: node.js
+
 Front-end development: HTML, CSS, bootstrap
+
 Back-end development: node.js
+
 Database: MongoDB Atlas
 
 
