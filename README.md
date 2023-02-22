@@ -8,6 +8,7 @@ npm i mongoose express body-parser https express-session passport passport-local
 node server.js
 ```
 
+## About the project: 
 Our group decided to choose the volunteering service as our project, because we believe that this topic is very relevant in our time and useful for society. We ourselves are interested in this topic and have repeatedly participated in volunteer movements within the framework of various programs and events.
 
 Volunteering is an activity performed voluntarily for the benefit of society or individual social groups, without expectation of remuneration. Thus, volunteers become not for financial reasons, but for the sake of helping others and gaining invaluable life and professional experience. Nowadays, volunteering is becoming more and more common. Many people of different ages take an important step to try their hand at volunteering in order to take a fresh look at themselves and the world around them, learn something, get new acquaintances with interesting people.
