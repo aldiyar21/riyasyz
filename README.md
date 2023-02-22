@@ -24,4 +24,5 @@ There are also 109 volunteer organizations in Kazakhstan. The most famous volunt
 
 
 Technology stack:
+
 JS, HTML, CSS, bootstrap, node.js, mongoDB Atlas
