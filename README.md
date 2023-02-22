@@ -1,7 +1,8 @@
 ## Write this before launching the site: 
 
-```
+
 Necessary installations :
+```
 npm install
 npm i mongoose express body-parser https express-session passport passport-local-mongoose
 node server.js
