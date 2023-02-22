@@ -27,12 +27,14 @@ Technology stack:
 ```
 Programming languages: Java Script
 
-Libraries: node.js
+Libraries: mongoose, express, body-parser, https, express-session, passport, passport-local-mongoose
 
 Front-end development: HTML, CSS, bootstrap
 
 Back-end development: node.js
 
 Database: MongoDB Atlas
+
+
 
 
