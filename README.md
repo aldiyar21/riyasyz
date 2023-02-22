@@ -1,4 +1,4 @@
-Write this before launching the site: 
+## Write this before launching the site: 
 
 ```
 Necessary installations :
