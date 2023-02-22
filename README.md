@@ -2,8 +2,6 @@
 
 ![Riyasyz Logo](https://cdn.discordapp.com/attachments/935156459208073281/1077905971017416704/logohs.png)
 
-# Riyasyz.kz 
-
 **Source code for volunteering service.**
 
 </div>
