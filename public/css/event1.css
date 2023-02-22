@@ -1,0 +1,85 @@
+.right-bck {
+}
+
+.event-list .card {
+    padding: 18px;
+    margin-bottom: 3px
+}
+
+.registration-right {
+    width: 80%;
+    padding-top: 0px;
+    padding-bottom: 50px
+}
+.navs{
+  padding-left: : 0px;
+}
+h1{
+  color:#4D96FF
+}
+.registration-right h2 {
+    color: #072227;
+    font-weight: 700;
+    padding-bottom: 20px
+}
+
+.registration .btn {
+    width: 100%
+}
+
+.fa,
+.fas,
+.fab {
+    font-family: "Font Awesome 5 Free";
+    font-weight: 900
+}
+
+.far {
+    font-family: "Font Awesome 5 Free";
+    font-weight: 400
+}
+
+
+
+.event-list img {
+    width: 180px;
+    height: 100px
+}
+
+.event-list h4 {
+    color: #c0bfc9;
+    font-size: 16px
+}
+
+.event-list .card-title span {
+    padding-left: 5px;
+    padding-right: 20px;
+    font-size: 12px;
+    font-weight: 700
+}
+
+.event-list .card-text {
+    color: #072227;
+    font-weight: 700;
+    font-size: 16px
+}
+
+.event-list .card-body {
+    padding: 0 20px;
+    margin: 0 0 10px 0
+}
+
+.event-list .card-title svg {
+    color: #ffffff
+}
+
+.cat{
+  border: 0px;
+}
+
+#btn-back-to-top {
+  position: fixed;
+  bottom: 20px;
+  right: 20px;
+  display: none;
+}
