@@ -45,13 +45,13 @@ Database: MongoDB Atlas
 
 ## The goal of the project
 
-The goal of our project was to practice Mongodb and use the knowledge we gained in this course (The main goal is to create a RESTful API for your application). Here we have successfully deployed the project to the web (Atlas).
+The goal of our project was to create a website for volunteering, where volunteers can exchange experiences, create ads and find other volunteer companies.
+Here we have successfully deployed the project to the web (Atlas).
 We also implemented all the topics that we covered in this course:
 - CRUD
 - Data Schemas and modeling (nested documents and relations with multiple collections)
-- Advance methods for data update and deletion
-compound indexes and optimizing indexes
 - aggregation pipelines
 - authentication and authorization and securing encrypting etc.
+
 
 
