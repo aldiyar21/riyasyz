@@ -1,0 +1,109 @@
+<%-include("headerforevent")%>
+<div style="
+width: 1000px;
+display: inline-block;
+margin-left: 150px;
+margin-top: 70px;
+font-size: 18px;
+">
+<form action="/post" method="post">
+<h2>Add Events </h2>
+  <div class="form-group row">
+    <label class="col-sm-2 col-form-label">Title</label>
+    <div class="col-sm-10">
+      <input name="title" type="text" class="form-control" placeholder="Title">
+    </div>
+  </div>
+  <br>
+
+  <div class="form-group row">
+    <label class="col-sm-2 col-form-label">Content</label>
+    <div class="col-sm-10">
+      <textarea name="content" class="form-control" rows="3"></textarea>
+    </div>
+  </div>
+  <br>
+  <div class="form-group row">
+    <label class="col-sm-2 col-form-label">Select category</label>
+    <div class="col-sm-10">
+  <select name="category" class="form-control" onchange="filterByCategory()">
+    <option value="">All categories</option>
+    <option value="Helping the homeless">Helping the homeless</option>
+    <option value="Volunteering">Volunteering</option>
+    <option value="Helping animals">Helping animals</option>
+    <option value="Fundraising">Fundraising</option>
+    <option value="Other...">Other...</option>
+  </select>
+</div>
+
+  </div>
+  <br>
+
+
+  <div class="form-group row">
+      <label class="col-sm-2 col-form-label">Input url of an image</label>
+      <div class="col-sm-10">
+          <input name="url" type="text" class="form-control" placeholder="Image">
+      </div>
+  </div>
+
+
+  <br>
+  <div class="form-group row">
+    <label class="col-sm-2 col-form-label">Company</label>
+    <div class="col-sm-10">
+      <input name="company" type="text" class="form-control" placeholder="Company">
+    </div>
+  </div>
+  <br>
+  <div class="form-group row">
+    <label class="col-sm-2 col-form-label">Author</label>
+    <div class="col-sm-10">
+      <input name="author" type="text" class="form-control" placeholder="Author">
+    </div>
+  </div>
+  <br>
+  <div class="form-group row">
+    <label class="col-sm-2 col-form-label">Date</label>
+    <div class="col-sm-10">
+      <input name="date" type="text" class="form-control" placeholder="Date">
+    </div>
+  </div>
+  <hr>
+  <div class="form-group row ">
+    <div class="col-sm-10">
+      <button type="submit" class="btn btn-primary">Publish</button>
+    </div>
+  </div>
+  </form>
+</div>
+
+
+  <section class="footer">
+
+     <div class="icons-container">
+        <div class="icons">
+           <i class="fas fa-phone"></i>
+           <h3>Hotline</h3>
+           <p>+77772121993</p>
+        </div>
+
+        <div class="icons">
+           <i class="fas fa-envelope"></i>
+           <h3>Email</h3>
+           <p>riyasyz.kz@gmail.com</p>
+        </div>
+
+        <div class="icons">
+           <i class="fas fa-map"></i>
+           <h3>Address</h3>
+           <p>Nur-Sultan, EXPO C1</p>
+        </div>
+
+     </div>
+
+
+  </section>
+
+
+  <%-include("footerforevent")%>
